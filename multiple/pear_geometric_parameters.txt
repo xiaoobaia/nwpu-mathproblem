@@ -1,0 +1,17 @@
+梨形钻石几何参数:
+------------------------------
+Major semi-axis length (a): 0.219098
+Minor semi-axis length (b): 0.153658
+Eccentricity (e): 0.712846
+Height of girdle (D): 0.112009
+Lower cone height (Lp): 0.643380
+mp: 0.788767
+Upper cone height (Lc): 0.643380
+mc: 1.581842
+Angle bc: -0.195608 radians = -11.21 degrees
+Angle bp: 0.071810 radians = 4.11 degrees
+缩放比例 (Scale): 1.242485
+------------------------------
+钻石质心位置: [0.88146114 0.87735784 0.87103146]
+对称轴方向: [0.2514225  0.22292916 0.9418542 ]
+总高度: 1.286760
