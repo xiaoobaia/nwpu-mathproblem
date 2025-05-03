@@ -1,0 +1,37 @@
+原石体积: 0.995975 立方厘米
+
+两个钻石总体积: 0.259728 立方厘米
+体积比(两个钻石总体积/原石体积): 0.260778
+
+钻石 1 (pear):
+  体积: 0.112798 立方厘米
+  a (Major semi-axis length): 0.396301
+  b (Minor semi-axis length): 0.277411
+  e (Eccentricity): 0.714143
+  D (Height of girdle): 0.103188
+  Lp (Lower cone height): 0.515938
+  mp: 0.400000
+  Lc (Upper cone height): 0.412750
+  mc: 0.600000
+  bc (Angle between basis semi-major axis and upper cone): 0.628319
+  bp (Angle between basis semi-major axis and lower cone): 1.047198
+  质心位置: [1.1400281  0.96004575 0.6672767 ]
+  对称轴方向: [-0.27472723  0.00920397  0.9614781 ]
+  缩放比例: 1.031876
+
+钻石 2 (pear):
+  体积: 0.146931 立方厘米
+  a (Major semi-axis length): 0.730086
+  b (Minor semi-axis length): 0.511060
+  e (Eccentricity): 0.714143
+  D (Height of girdle): 0.112693
+  Lp (Lower cone height): 0.563466
+  mp: 0.400000
+  Lc (Upper cone height): 0.450773
+  mc: 0.600000
+  bc (Angle between basis semi-major axis and upper cone): 0.628319
+  bp (Angle between basis semi-major axis and lower cone): 1.047198
+  质心位置: [0.67975956 0.5693356  0.8703522 ]
+  对称轴方向: [-0.33119035 -0.00162915  0.94356257]
+  缩放比例: 1.126932
+
