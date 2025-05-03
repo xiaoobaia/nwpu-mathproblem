@@ -1,0 +1,17 @@
+双钻石切割优化结果汇总
+========================
+
+round_round 组合:
+  体积比: 0.447606
+  详细参数: 见 diamond_parameters_round_round.txt
+
+pear_pear 组合:
+  体积比: 0.254978
+  详细参数: 见 diamond_parameters_pear_pear.txt
+
+round_pear 组合:
+  体积比: 0.480512
+  详细参数: 见 diamond_parameters_round_pear.txt
+
+最佳组合: round_pear
+最佳体积比: 0.480512
