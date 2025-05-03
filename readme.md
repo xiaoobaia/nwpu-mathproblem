@@ -81,3 +81,10 @@ python diamond_optimization.py
    - 三维平移距离 (X, Y, Z轴)
 
 3. 适应度函数定义为梨形钻石体积与原石体积的比值，当且仅当梨形钻石完全在原石内部时有效。
+##核心代码文件
+   -diamond_visualization.py 标准圆形钻石的显示文件
+   -visualize_diamond.py 原石的显示文件
+   -enhanced_pear_diamond_3d.py 3d梨形钻石显示文件
+   -genetic_optimization.py 标准圆形钻石利用遗传算法进行优化的文件
+   -pear_genetic_optimization.py 标准梨形钻石利用遗传算法进行优化的文件
+   -optimizer.py 两个钻石利用遗传算法进行优化的文件
