@@ -45,7 +45,7 @@ pip install numpy pandas scipy deap plotly torch
 2. 运行主程序：
 
 ```bash
-python diamond_optimization.py
+python optimizer.py
 ```
 
 3. 程序会输出优化过程、最佳参数和几何参数
